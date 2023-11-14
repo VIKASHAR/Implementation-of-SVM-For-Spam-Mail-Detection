@@ -17,7 +17,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 7. Finally, evaluate the accuracy of the model.
 
 ## Program:
-```
+```python
 /*
 Program to implement the SVM For Spam Mail Detection..
 Developed by: Vikash A R
@@ -72,6 +72,9 @@ accuracy
 ## data.isnull().sum()
 
 ![282257608-2eba109c-0bdd-468a-8bcf-d9258c23f8ef](https://github.com/VIKASHAR/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119405655/ca6f7181-50ea-4907-9b9f-dcb61ef6ca9f)
+
+![282257631-b0e5dbc6-7c5b-40fe-b610-86fc97828918](https://github.com/VIKASHAR/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119405655/a1abaad9-87b1-400e-8414-b52a0cc7985b)
+
 
 ## Y_prediction Value
 
